@@ -26,6 +26,37 @@
 
 ---
 
+## 访问外网 / 网络代理教程
+
+> **说明：** 以下均为 GitHub 上的公开教程链接，仅供学习网络技术参考。国内个人使用未备案的翻墙工具存在 **法律与政策风险**，请自行了解相关法规，优先使用合法合规方式（企业专线、国内 API 替代方案等）。
+
+### 推荐教程
+
+| 项目 | 内容 |
+|------|------|
+| **标题** | 科学上网完全指南（从零基础到精通） |
+| **仓库** | [ihmily/proxy-guide](https://github.com/ihmily/proxy-guide) |
+| **简介** | 系统讲解代理原理、主流协议（Reality、Hysteria 2 等）及客户端配置，持续更新 |
+| **收藏时间** | 2026-05-25 |
+
+### 备选教程
+
+1. **everett7623/freego** — 2026 新手向图文教程，含 Clash 订阅、机场选购、排障指南  
+   https://github.com/everett7623/freego
+
+2. **mowei-ie/router-vpn** — 全平台教程（Windows / macOS / 手机 / 路由器）  
+   https://github.com/mowei-ie/router-vpn
+
+3. **clash-verge-rev/clash-verge-rev** — Clash Verge Rev 客户端官方文档（Windows 常用）  
+   https://github.com/clash-verge-rev/clash-verge-rev
+
+### 在 GitHub 上 Star 推荐仓库
+
+1. 打开 https://github.com/ihmily/proxy-guide
+2. 点击右上角 **Star** 按钮
+
+---
+
 ## 在 GitHub 上 Star 该教程仓库
 
 1. 打开 https://github.com/chujiannuyou/chujiannuyou.github.io
