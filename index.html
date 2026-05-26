@@ -69,6 +69,18 @@
     70%       { transform: scale(1); }
   }
 
+  .caption {
+    position: absolute;
+    bottom: 18vh;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: rgba(255, 180, 195, 0.9);
+    font-size: clamp(16px, 3.5vw, 24px);
+    letter-spacing: 0.2em;
+    z-index: 2;
+  }
+
   /* 漂浮粒子 */
   .particles {
     position: absolute;
@@ -116,6 +128,8 @@
         <path fill="url(#heartFill)" d="M50,85 C22,62 2,48 2,28 C2,10 16,2 30,2 C40,2 46,10 50,20 C54,10 60,2 70,2 C84,2 98,10 98,28 C98,48 78,62 50,85 Z"/>
       </svg>
     </div>
+
+    <p class="caption">唯欣主义</p>
 
     <div class="particles" aria-hidden="true">
       <span class="particle"></span>
